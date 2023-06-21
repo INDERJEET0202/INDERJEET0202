@@ -25,11 +25,14 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/indrajit10?theme=nord&font=&extension=null)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrajit&show_icons=true&locale=en&layout=compact" alt="indrajit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indrajit&show_icons=true&locale=en" alt="indrajit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indrajit&" alt="indrajit" /></p>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnenduroy52&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnenduroy52&layout=compact)
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 <!--
 **INDERJEET0202/INDERJEET0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

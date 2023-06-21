@@ -25,6 +25,7 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/indrajit10?theme=nord&font=&extension=null)
 
+## 📊 Github stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>

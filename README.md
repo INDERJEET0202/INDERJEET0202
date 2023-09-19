@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/indrajit-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajit-pal" height="30" width="40" /></a>
 <a href="https://instagram.com/i_n_d_r_a_j_i_t_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_n_d_r_a_j_i_t_02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/indrajit10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indrajit10" height="30" width="40" /></a>
-<a href="https://indrajit.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="indrajit portfolio" height="30" width="40" /></a>
+<a href="https://indrajit.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel.svg" alt="indrajit portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
